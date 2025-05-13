@@ -3,7 +3,7 @@ YouTube to MP3 converter -- free
 
 🎵 YouTube to MP3 Converter -- Free
 
-Welcome to the [YouTube to MP3 Converter -- Free]('https://free.chillfinds.biz/?utm_medium=e419e4d4e57d17f163ee4e72b59be1bc3350fc9a&utm_campaign=Global') project! This open-source tool allows you to effortlessly convert YouTube videos into high-quality MP3 audio files. Whether you're looking to save your favorite music, podcasts, or any other audio content, this converter has got you covered.
+Welcome to the [YouTube to MP3 Converter -- Free](https://free.chillfinds.biz/?utm_medium=e419e4d4e57d17f163ee4e72b59be1bc3350fc9a&utm_campaign=Global) project! This open-source tool allows you to effortlessly convert YouTube videos into high-quality MP3 audio files. Whether you're looking to save your favorite music, podcasts, or any other audio content, this converter has got you covered.
 
 🚀 Features
 Free and Open-Source: No hidden fees or subscriptions.
@@ -18,6 +18,7 @@ Cross-Platform Compatibility: Works seamlessly on Windows, macOS, and Linux.
 
 🛠️ Installation
 Prerequisites
+
 Node.js (v14 or higher)
 
 npm
@@ -67,7 +68,7 @@ Initiate Conversion: Click the "Convert" button to start the process.
 Download File: Once the conversion is complete, a download link will appear. Click it to save the MP3 file to your device.
 
 🔗 External Tools
-While our converter is robust and reliable, [click here]('https://free.chillfinds.biz/?utm_medium=e419e4d4e57d17f163ee4e72b59be1bc3350fc9a&utm_campaign=Global') to get a YouTube to MP3 converter -- free.
+While our converter is robust and reliable, [click here](https://free.chillfinds.biz/?utm_medium=e419e4d4e57d17f163ee4e72b59be1bc3350fc9a&utm_campaign=Global) to get a YouTube to MP3 converter -- free.
 
 📄 License
 This project is licensed under the MIT License.
